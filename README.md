@@ -38,3 +38,5 @@ I kicked off this project by first looking into internal structure of input data
 The feature engineering part includes a set of numeric scaling (normalization) and categorical transformation (onehotencoding, ordinal encodring). Some new features were believed to have contribution to predicting target values, thus added to the feature space. 
 
 K-fold cross validation and grid search methods are utilized at model selection stages. Since it is of greate significance for the model to ba able to identify as many churned customers as possbile, recall is more valued among other evaluation metrics (precision, accuracy, f1 score, auc score). 
+
+The best model after training and paramter tuning is Random Forest (recall:0.48, precision: 0.8, accuracy: 0.87, auc score: 0.87). 
