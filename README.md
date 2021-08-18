@@ -1,9 +1,10 @@
 # ML_Customer_Churn_Prediction
 
-## Introduction
-Every business deals with customer churn. It is one of the top business priorities. 
-
 **Customer churn**, also known as customer attrition, refers to "a degree of inactivity or disengagement observed given a period of time". There are usualy early indicators which could be uncovered from relational or behavioral data with churn analysis. To understand key drivers of customer churn and to be abe to identify at-risk customers is crucial to many aspects of business development, from **revenue growth** to **acquisition campaign ROI**. Normally, loyal, long-term customers spend 90% more often and buy 90% more per transaction. Hence it's always worth business attention to investigate on how to retain existing customers and prevent churn. 
+
+**Every business deals with customer churn. It is one of the top business priorities.**
+
+## Introduction
 
 ### For this project, I aim to accomplish these two objectives : 
 1. Diagnose key factors of customer churn
